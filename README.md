@@ -6,6 +6,10 @@
 FutureSportler Cricket AI is a video-based AI system that provides **3D cricket motion analysis**, **biomechanics scoring**, and **coach-style corrective feedback** for batting, bowling, and fielding.
 
 ---
+## Demo Video
+[🎥 Watch the demo on Google Drive](https://drive.google.com/drive/folders/16h23KP6vGn1OOYR-RKRitXlbHM_RaG1E?usp=drive_link)
+---
+
 ## 🎯 Problem-Solving Aim
 
 This project aims to address two key practical problems:

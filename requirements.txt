@@ -1,0 +1,45 @@
+# Enhanced Cricket AI Analysis System Requirements
+
+# Core Dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+pandas>=2.0.0
+
+# Machine Learning & Analysis
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization & Web
+kaleido>=0.2.1  # For static image export from plotly
+dash>=2.10.0  # Optional: for web dashboards
+
+# Video Processing
+moviepy>=1.0.3  # Optional: for advanced video editing
+
+# Progress Tracking & Data
+tqdm>=4.65.0  # Progress bars
+psutil>=5.9.0  # System monitoring
+
+# Development & Testing (Optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Code linting
+
+# Documentation (Optional)
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.3.0
+
+
+
+opencv-python==4.8.1.78
+mediapipe==0.10.3
+matplotlib==3.7.2
+numpy==1.24.3
+scipy==1.11.1
+vedo==2023.5.0
+tqdm==4.65.0

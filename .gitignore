@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+cricket-env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+__init__.py# Install LFS
+git lfs install
+
+# Track large file types (e.g., videos, models)
+git lfs track "*.mp4"
+git lfs track "*.pkl"
+git lfs track "*.h5"
+
+ *.mp4
+data
+outputs
